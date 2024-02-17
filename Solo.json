@@ -35,22 +35,22 @@
             "#ec275f"
         ],
         "BACKGROUND_SECONDARY": [
-            "#78605e"
+            "#0c0c0c"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#78605e"
+            "#0c0c0c"
         ],
 		"REDESIGN_BUTTON_SECONDARY_BORDER": [
-			"#fbdf6a"
+			"#0c0c0c"
 		],
         "BACKGROUND_TERTIARY": [
-            "#78605e"
+            "#0c0c0c"
         ],
 		"BG_BASE_PRIMARY": [
-            "#78605e"
+            "#0c0c0c"
         ],
         "BG_BASE_SECONDARY": [
-            "#936d71"
+            "#0c0c0c"
         ],
         "BG_BASE_TERTIARY": [
             "#d4e0ee"
@@ -59,16 +59,16 @@
             "#d4e0ee40"
         ],
         "BACKGROUND_ACCENT": [
-            "#78605e"
+            "#0c0c0c"
         ],
         "BACKGROUND_FLOATING": [
             "#78605e"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#8c7074"
+            "#0c0c0c"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#78605e"
+            "#0c0c0c"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#78605e"
@@ -94,20 +94,20 @@
             "#ffdcdc"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#d4e0ee"
+            "#0c0c0c"
         ],
 		
 		"BUTTON_OUTLINE_BRAND_BACKGROUND":[
-			"#78605e"
+			"#0c0c0c"
 		],
 		"BUTTON_OUTLINE_BRAND_BOARDER":[
-			"#78605e"
+			"#0c0c0c"
 		],
         "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-			"#78605e"
+			"#0c0c0c"
       ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-			"#78605e"
+			"#0c0c0c"
       ],
 	  "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
 			"#d4e0ee"
@@ -134,7 +134,7 @@
             "#d4e0ee"
         ],
         "CHAT_BACKGROUND": [
-            "#c55e97"
+            "#0c0c0c"
       ],
 		"CARD_PRIMARY_BG": [
 			"#78605e"
@@ -144,7 +144,7 @@
 			"#ec275f66"
 	],
 		"MENTION_BACKGROUND": [
-			"#d4e0eeA6"
+			"#0c0c0c"
 	],
 		"MENTION_FOREGROUND": [
 			"#ffdcdc"
