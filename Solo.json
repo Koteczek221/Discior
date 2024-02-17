@@ -14,7 +14,7 @@
             "#0c0c0c"
         ],
 		"TEXT_SECONDARY": [
-            "#d28077"
+            "#0c0c0c"
         ],
 		"TEXT_PRIMARY": [
             "#ffffff"
@@ -119,16 +119,16 @@
             "#d98958"
         ],
         "BORDER_STRONG": [
-            "#d98958"
+            "#0c0c0c"
         ],
         "BORDER_SUBTLE": [
-            "#d98958"
+            "#0c0c0c"
         ],
         "TEXT_LINK": [
-            "#d4e0ee"
+            "#0c0c0c"
         ],
         "TEXT_DANGER": [
-            "#ec275f"
+            "#0c0c0c"
         ],
         "CHANNEL_ICON": [
             "#d4e0ee"
