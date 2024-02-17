@@ -116,38 +116,38 @@
             "transparent"
         ],
 		 "BORDER_FAINT": [
-            "#FF0000"
+            "#6ad7fb"
         ],
         "BORDER_STRONG": [
-            "#FF0000"
+            "#6ad7fb"
         ],
         "BORDER_SUBTLE": [
-            "#FF0000"
+            "#6ad7fb"
         ],
         "TEXT_LINK": [
-            "#fbdf6a"
+            "#6ad7fb"
         ],
         "TEXT_DANGER": [
-            "#fbdf6a"
+            "#6ad7fb"
         ],
         "CHANNEL_ICON": [
-            "#FF0000"
+            "#6ad7fb"
         ],
         "CHAT_BACKGROUND": [
-            "#FF0000"
+            "#6ad7fb"
       ],
 		"CARD_PRIMARY_BG": [
-			"#FF0000"
+			"#6ad7fb"
 	],
 	
 		"BACKGROUND_MENTIONED": [
-			"#FF0000"
+			"#6ad7fb"
 	],
 		"MENTION_BACKGROUND": [
-			"#FF0000"
+			"#6ad7fb"
 	],
 		"MENTION_FOREGROUND": [
-			"#FF0000"
+			"#6ad7fb"
 	]
     },
     "rawColors": {
