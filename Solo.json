@@ -11,16 +11,16 @@
     "semanticColors": {
         
         "TEXT_NORMAL": [
-            "#FF0000"
+            "#fbdf6a"
         ],
 		"TEXT_SECONDARY": [
-            "#FF0000"
+            "#fbdf6a"
         ],
 		"TEXT_PRIMARY": [
-            "#FF0000"
+            "#fbdf6a"
         ],
         "TEXT_MUTED": [
-            "#FF0000"
+            "#fbdf6a"
         ],
         "INTERACTIVE_NORMAL": [
             "#FF0000"
@@ -88,10 +88,10 @@
             "#FF0000"
         ],
 		"REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-            "#FF0000"
+            "#fbdf6a"
         ],
         "REDESIGN_CHANNEL_NAME_TEXT": [
-            "#FF0000"
+            "#fbdf6a"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
             "#FF0000"
@@ -125,10 +125,10 @@
             "#FF0000"
         ],
         "TEXT_LINK": [
-            "#FF0000"
+            "#fbdf6a"
         ],
         "TEXT_DANGER": [
-            "#FF0000"
+            "#fbdf6a"
         ],
         "CHANNEL_ICON": [
             "#FF0000"
